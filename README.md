@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Ágatha Selbach
 
-Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 🎓
+Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** na Unisinos🎓
 
 ---
 
