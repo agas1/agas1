@@ -6,10 +6,10 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
 
 ## Sobre mim
 
-- 👩‍💻 Trabalho com desenvolvimento Full-Stack
-- 📚 Estudante de Engenharia de Software
-- 📫 Contato: [agathaselbach26@gmail.com](mailto:agathaselbach26@gmail.com)
-- ✨ Pronouns: ela/dela
+- 👩‍💻 Trabalho com desenvolvimento Full-Stack  
+- 📚 Estudante de Engenharia de Software  
+- 📫 Contato: [agathaselbach26@gmail.com](mailto:agathaselbach26@gmail.com)  
+- ✨ Pronouns: ela/dela  
 
 ---
 
@@ -22,16 +22,16 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
   </a>
 </div>
 
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
 </div>
 
 ---
@@ -44,7 +44,5 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   </a>
 </div>
-
-
 
 ⭐️ Feito por Ágatha Selbach
