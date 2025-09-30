@@ -5,8 +5,7 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
 ---
 
 ## Sobre mim
-
-- 👩‍💻 Trabalho com desenvolvimento Full-Stack  
+ 
 - 📚 Estudante de Engenharia de Software  
 - 📫 Contato: [agathaselbach26@gmail.com](mailto:agathaselbach26@gmail.com)  
 - ✨ Pronouns: ela/dela  
